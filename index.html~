@@ -54,26 +54,11 @@
           <h4>Data mining experiences</h4>
         </div>
         <div class="descrition">
-          <p>RNA-seq, ChIP-seq, ATAC-seq, Hi-C, scRNA-seq and other high throughput sequencing data analysis.</p>
-        </div>
-      </article>
-      <article class='course'>
-        <div class='title'>
-          <h4>EdX: Web Programming with JavaScript</h4>
-        </div>
-        <div class="descrition">
-          <p>Learn how to create web apps and prototypes with JavaScript, represent and exchange data using JavaScript Object Notation (JSON), and how to access RESTful APIs on the web.</p>
-        </div>
-      </article>
-      <article class='course'>
-        <div class='title'>
-          <h4>Django Girls: 2-Day Workshops</h4>
-        </div>
-        <div class="descrition">
-          <p>Learn back-end development with simple blog application using Django  framework.</p>
+          <p>RNA-seq, ChIP-seq, ATAC-seq, HiC, scRNA-seq and other high throughput sequencing data analysis.</p>
         </div>
       </article>
     </section>
+    
     <section>
       <h3>Skills</h3>
       <div class='skills'>
