@@ -57,7 +57,7 @@
           <h4>Data mining experiences</h4>
         </div>
         <div class="descrition">
-          <p> ATAC-seq, scRNA-seq, RNA-seq, ChIP-seq,  HiC and other high throughput sequencing data analysis.</p>
+          <p> scRNA-seq, RNA-seq, ATAC-seq, scATAC-seq, ChIP-seq,  HiC and other high throughput sequencing data analysis.</p>
         </div>
       </article>
     </section>
@@ -84,7 +84,7 @@
     </section>
     
     <section>
-      <h3>PUBLICATIONS</h3>
+      <h3>PUBLICATIONS</h3><p>(# Equal contribution, * Correspondence)</p>
       <article>
 <!-- 
         <div class='title'>
@@ -103,8 +103,9 @@
           <li><span>Andrew P. Hutchins,* Zhongzhou Yang, Yuhao Li, Fangfang He, Xiuling Fu, Xiaoshan Wang, Dongwei Li, Kairong Liu,<strong>Jiangping He</strong>, Yong Wang, Jiekai Chen, Miguel A. Esteban and Duanqing Pei*. Models of global gene expression define major domains of cell type and tissue identity, Nucleic Acids Research (2017).</span></li> <br>
         </div>
  -->
-        
-        <a href="https://www.nature.com/articles/s41467-018-08006-y"  target="_blank"><li><span><strong>Jiangping He,</strong> Xiuling Fu, Meng Zhang, Fangfang He, Wenjuan Li, Mazid Md. Abdul, Jianguo Zhou, Li Sun, Chen Chang, Yuhao Li, He Liu, Kaixin Wu, Isaac A. Babarinde, Qiang Zhuang, Yuin- Han Loh, Jiekai Chen, Miguel A. Esteban and Andrew P. Hutchins*. Transposable elements are regulated by context-specific patterns of chromatin marks in mouse embryonic stem cells, <strong>Nature Communications</strong>  (2019).</span></li> </a><BR> 
+        <li><span>Shengyong Yu#, Chunhua Zhou#, Shangtao Cao#, <strong>Jiangping He</strong>#, Yue Qin, Baomei Cai, Jing Ye, Wenxiu Xie, Shilong Chu, Jing Guo, He Liu, Wei Pang, Lin Guo, Mengying Zeng, Xiaoshan Wang, Rongping Luo, Chen Li, Guoqing Zhao, Bo Wang, Linlin Wu, Jiekai Chen, Jing Liu*, and Duanqing Pei*. Transient Reconfiguration of EpiSC Chromatin Architecture by BMP4 Triggers Reset towards Naive Pluripotency, Nature Cell Biology <strong>(Under review)</strong>.</span></li><BR> 
+        <li><span>Kaixin Wu#, He Liu#, Yaofeng Wang#, <strong>Jiangping He</strong>, Shuyang Xu, Yaping Chen, Junqi Kuang, Jiadong Liu, Lin Guo, Dongwei Li, Jie Wang, Li Shen, Yangming Wang, Xiaofei Zhang, Duanqing Pei and Jiekai Chen. SETDB1-mediated Cell Fate Transition Between 2C-like and Pluripotent States, Cell Reports <strong>(Under review)</strong>.</span></li><BR> 
+        <a href="https://www.nature.com/articles/s41467-018-08006-y"  target="_blank"><li><span><strong>Jiangping He,</strong> Xiuling Fu, Meng Zhang, Fangfang He, Wenjuan Li, Mazid Md. Abdul, Jianguo Zhou, Li Sun, Chen Chang, Yuhao Li, He Liu, Kaixin Wu, Isaac A. Babarinde, Qiang Zhuang, Yuin- Han Loh, Jiekai Chen, Miguel A. Esteban and Andrew P. Hutchins*. Transposable elements are regulated by context-specific patterns of chromatin marks in mouse embryonic stem cells, <strong>Nature Communications</strong> (2019).</span></li> </a><BR> 
         <a href="https://www.sciencedirect.com/science/article/pii/S1934590918301115?via%3Dihub"  target="_blank"><li><span>Shangtao Cao#, Shengyong Yu#, Dongwei Li#, Jing Ye, Xuejie Yang, Chen Li, Xiaoshan Wang, Yuanbang Mai, Yue Qin, Jian Wu, <strong>Jiangping He</strong>, Chunhua Zhou, He Liu, Bentian Zhao, Xiaodong Shu, Chuman Wu, Ruiping Chen, Waiyee Chan, Guangjin Pan, Jiekai Chen, Jing Liu,* and Duanqing Pei*. Chromatin Accessibility Dynamics during Chemical Induction of Pluripotency, Cell Stem Cell (2018).</span></li> </a><br>
         <a href="https://www.sciencedirect.com/science/article/pii/S2211124717315711?via%3Dihub"  target="_blank"><li><span>Zhiwei Zhou, Xuejie Yang, <strong>Jiangping He</strong>, Jing Liu, Fang Wu, Shengyong Yu, Yuting Liu, Runxia Lin, He Liu, Yuanbin Cui, Chunhua Zhou, Xiaoshan Wang, Jian Wu, Shangtao Cao, Lin Guo, Lihui Lin, Tao Wang, Xiaozhong Peng, Boqing Qiang, Andrew P. Hutchins, Duanqing Pei* and Jiekai Chen*. Kdm2b Regulates Somatic Reprogramming through Variant PRC1 Complex-Dependent Function, Cell Reports (2017).</span></li></a><br>
         <a href="https://www.sciencedirect.com/science/article/pii/S1934590917304290?via%3Dihub"  target="_blank"><li><span>Dongwei Li#, Jing Liu#, Xuejie Yang#, Chunhua Zhou, Jing Guo, Chuman Wu, Yue Qin, Lin Guo, <strong>Jiangping He</strong>, Shenyong Yu, He Liu, Xiaoshan Wang, Fang Wu, Junqi Kuang, Andrew P. Hutchins,* Jiekai Chen,* and Duanqing Pei*. Chromatin Accessibility Dynamics during iPSC Reprogramming, Cell Stem Cell (2017).</span></li></a><br>
@@ -129,10 +130,10 @@
           <h4>TEs Control Cell Fate Transition</h4>
         </div>
         <div class="descrition">
-          <p>Presented TEs expression diverse between different cell fate branches by scRNA-seq during cell fate transition. Combination bioinformatic analysis of other omics data shows how those TEs control cell fate commitment.</p>
+          <p>Presented TEs expression diverse between different cell fate branches by scRNA-seq during cell fate transition. Combination bioinformatic analysis of multi-omics data and experimental validation show how those TEs control cell fate commitment. And revealed how epigenetic modification regulate cell fate decision through control of TEs. (In preparation).</p>
         </div>
       </article>
-      
+    
      <article class='course'>
         <div class='title'>
           <h4>Chemical Induction of Mouse Primed Naïve Transition (PNT)</h4>
