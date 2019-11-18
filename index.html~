@@ -139,7 +139,7 @@
           <h4>Chemical Induction of Mouse Primed Naïve Transition (PNT)</h4>
         </div>
         <div class="descrition">
-          <p>Chemical screen identified small molecules that can boost PNT. Bioinformatics analysis of ATAC-seq and scRNA-seq data recovers the chromatin dynamics and trajectories during this process. We also uncovered TEs dynamics during this process</p>
+          <p>Chemical screen identified small molecules that can boost PNT. Bioinformatics analysis of ATAC-seq and scRNA-seq data recovers the chromatin dynamics and trajectories during this process. We also uncovered TEs dynamics during this process by a cell fate restricted manner. </p>
         </div>
       </article>
     </section>
